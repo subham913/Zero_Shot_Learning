@@ -1,0 +1,21 @@
+____Method1___
+Run convex.py as <python3 convex.py>
+Make sure datasets are in the same directory
+__Accuracy__
+accuracy on unseen classes with convex Method is 0.46893203883495144
+
+
+____Method2___
+Run regress.py as <python3 regress.py>
+Make sure datasets are in the same directory
+__Accuracy__
+accuracy with lambda = 0.01 is 0.580906148867314
+accuracy with lambda = 0.1 is 0.5954692556634305
+accuracy with lambda = 1 is 0.6739482200647249
+accuracy with lambda = 10 is 0.7328478964401295
+accuracy with lambda = 20 is 0.7168284789644013
+accuracy with lambda = 50 is 0.6508090614886731
+accuracy with lambda = 100 is 0.5647249190938511
+Maximum accuracy is 0.7328478964401295 with lambda = 10
+
+
